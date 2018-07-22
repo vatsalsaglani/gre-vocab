@@ -1,4 +1,6 @@
 {
+
+
     "words": [{
         "word": "abate",
         "meaning": "become less in amount or intensity"
@@ -302,5 +304,65 @@
     }, {
         "word": "disparage",
         "meaning": "express a negative opinion"
+    }, {
+        "word": "disparate",
+        "meaning": "fundamentally different or distinct in quality"
+    }, {
+        "word": "dissemble",
+        "meaning": "to give a false or misleading appearance; to conceal the truth or real nature"
+    }, {
+        "word": "disseminate",
+        "meaning": "spread or disperse(something, especially information) widely"
+    }, {
+        "word": "dissonance",
+        "meaning": "lack of agreement or harmony or consistency"
+    }, {
+        "word": "distend",
+        "meaning": "cause to expand as it by internal pressure"
+    }, {
+        "word": "distill",
+        "meaning": "undergo condensation; change from a gaseous to a liquid and fall in drops"
+    }, {
+        "word": "diverge",
+        "meaning": "move or draw apart"
+    }, {
+        "word": "divest",
+        "meaning": "to strip off clothing, ornaments, etc.."
+    }, {
+        "word": "dogmatic",
+        "meaning": "of or pertaining to or characteristic of a doctorine or code of belief accepted as authoritative"
+    }, {
+        "word": "dormant",
+        "meaning": "inactive but capable of being active"
+    }, {
+        "word": "dupe",
+        "meaning": "fool or hoax"
+    }, {
+        "word": "hoax",
+        "meaning": "a humorous or malacious deception"
+    }, {
+        "word": "ebullient",
+        "meaning": "joyously unrestrained"
+    }, {
+        "word": "eclectic",
+        "meaning": "deriving ideas, style or taste from a broad and diverse range of sources"
+    }, {
+        "word": "efficacy",
+        "meaning": "capacity or power to produce desired effect"
+    }, {
+        "word": "effrontery",
+        "meaning": "audacious (even arrogant) behaviour that you have no right to"
+    }, {
+        "word": "elegy",
+        "meaning": "a mournful poem; a lament for the dead"
+    }, {
+        "word": "lament",
+        "meaning": "a passionate expression of grief or sorrow"
+    }, {
+        "word": "elicit",
+        "meaning": "call forth(emotions, feelings and responses)"
+    }, {
+        "word": "embellish",
+        "meaning": "to make more attractive by adding ornament, colour etc..."
     }]
 }
